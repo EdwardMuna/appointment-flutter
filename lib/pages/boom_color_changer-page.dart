@@ -17,6 +17,7 @@ class _BoomColorChangerState extends State<BoomColorChanger> {
   ];
 
   @override
+  
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: _backgroundColor,
